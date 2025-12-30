@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 536 953">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #720000;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #690005;
+        stroke-miterlimit: 10;
+        stroke-width: 29px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="308.12" cy="370.34" r="17.56"/>
+  <ellipse class="cls-1" cx="289.55" cy="418.21" rx="6.57" ry="21.22"/>
+  <circle class="cls-1" cx="315.06" cy="490.84" r="6.95"/>
+  <circle class="cls-1" cx="288.16" cy="489.83" r="7.96"/>
+  <rect class="cls-1" x="296.12" y="394.97" width="29.56" height="54.57"/>
+  <rect class="cls-1" x="282.98" y="447.52" width="27.92" height="14.15" transform="translate(816.03 613.86) rotate(140.21)"/>
+  <rect class="cls-1" x="278.25" y="462.35" width="16.19" height="29.85" rx="8.1" ry="8.1" transform="translate(-58.37 40.29) rotate(-7.31)"/>
+  <rect class="cls-1" x="280.2" y="451.56" width="26.02" height="15.66" transform="translate(-233.52 319.52) rotate(-42.58)"/>
+  <rect class="cls-1" x="308.12" y="463.71" width="13.89" height="27.14"/>
+  <ellipse class="cls-1" cx="333.62" cy="422.25" rx="7.33" ry="21.22"/>
+  <rect class="cls-1" x="296.12" y="449.54" width="24.97" height="13.39"/>
+  <ellipse class="cls-1" cx="287.95" cy="460.45" rx="13.63" ry="7.93" transform="translate(-253.23 415.19) rotate(-53.2)"/>
+  <ellipse class="cls-1" cx="285.38" cy="416.69" rx="5.18" ry="19.71"/>
+  <ellipse class="cls-1" cx="317.17" cy="410.35" rx="15.66" ry="16.98"/>
+  <ellipse class="cls-1" cx="293.75" cy="481.37" rx="3.19" ry="12.63"/>
+  <rect class="cls-1" x="307.67" y="457.11" width="14.78" height="19.2" rx="7.39" ry="7.39"/>
+  <ellipse class="cls-1" cx="315.06" cy="451.7" rx="13.14" ry="10.61" transform="translate(-199.19 648.8) rotate(-76.07)"/>
+  <ellipse class="cls-1" cx="288.16" cy="432.72" rx="4.8" ry="6.37"/>
+  <polygon class="cls-1" points="445.59 463.62 365.25 463.62 354.83 517.87 445.59 516.04 445.59 463.62"/>
+  <polygon class="cls-1" points="356.91 507.01 445.59 507.01 422.35 625.24 289.55 521.16 356.91 507.01"/>
+  <polygon class="cls-1" points="301.08 542.88 219.23 562.59 219.23 669.71 393.55 636.86 301.08 542.88"/>
+  <rect class="cls-1" x="188.92" y="629.79" width="184.93" height="48" rx="16.42" ry="16.42"/>
+  <rect class="cls-1" x="154.64" y="589.65" width="112.02" height="68.79" rx="15.35" ry="15.35" transform="translate(-127.6 58.89) rotate(-12.25)"/>
+  <rect class="cls-1" x="257.53" y="561.98" width="4.15" height="4.15"/>
+  <rect class="cls-1" x="236.41" y="621.71" width="4.15" height="4.15"/>
+  <rect class="cls-1" x="204.58" y="602" width="1.52" height="1.01"/>
+  <rect class="cls-1" x="131.01" y="601.13" width="46.56" height="39.92" transform="translate(-128.25 46.87) rotate(-12.25)"/>
+  <rect class="cls-1" x="338.22" y="426.35" width="12.72" height="109.64"/>
+  <rect class="cls-1" x="386.47" y="389.92" width="9.09" height="107.12"/>
+  <rect class="cls-1" x="208.42" y="521.56" width="10.61" height="80.84"/>
+  <rect class="cls-1" x="146.39" y="565.62" width="10.11" height="43.96"/>
+  <rect class="cls-1" x="66.26" y="486.76" width="371.94" height="15.16" transform="translate(-238.97 236.05) rotate(-35.23)"/>
+  <ellipse class="cls-3" cx="270.09" cy="500.57" rx="188.21" ry="185.43"/>
+  <rect class="cls-2" x="67.73" y="489" width="379.59" height="42.4" transform="translate(390.41 -45.65) rotate(40.23)"/>
+  <ellipse class="cls-1" cx="315.06" cy="454.59" rx="11.97" ry="9.76" transform="translate(-237.45 480.02) rotate(-57.91)"/>
+  <rect class="cls-1" x="289.84" y="440.04" width="14.2" height="20.23" transform="translate(405.28 -78.12) rotate(45)"/>
+  <rect class="cls-1" x="282.04" y="392.33" width="53.91" height="36.04" rx="12.08" ry="12.08"/>
+  <rect class="cls-1" x="315.18" y="395.28" width="22.23" height="22.23" rx="11.12" ry="11.12"/>
+  <ellipse class="cls-1" cx="318.25" cy="462.26" rx="4.59" ry="6.32"/>
+</svg>

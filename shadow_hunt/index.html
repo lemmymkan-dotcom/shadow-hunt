@@ -10,9 +10,8 @@
       text-align: center;
       direction: rtl;
     }
-    h1 {
-      margin-top: 20px;
-    }
+    h1 { margin-top: 20px; }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -23,56 +22,83 @@
     .item img {
       width: 100%;
       transition: opacity 0.5s ease;
+      cursor: pointer;
     }
     .counter {
       font-size: 18px;
       margin-top: 10px;
     }
+
+    /* Lightbox */
+    .lightbox {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.85);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+    }
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+    }
+    .lightbox.active {
+      display: flex;
+    }
   </style>
 </head>
+
 <body>
+  <h1>תמרורי רעות</h1>
+  <div class="counter" id="counter"></div>
+  <div class="grid" id="grid"></div>
 
-<h1>תמרורי רעות</h1>
-<div class="counter" id="counter"></div>
+  <!-- Lightbox HTML (חייב להיות בתוך body) -->
+  <div class="lightbox" id="lightbox">
+    <img src="" alt="">
+  </div>
 
-<div class="grid" id="grid"></div>
+  <script>
+    const illustrations = ["mouse","table","do_not_read", "broken_heart", "candy", "chill", "dont_eat_brush", "dont_play", "jail", "mapolet", "money", "no_eating_paint", "no_phone", "no_school", "no_singing", "no_sleep", "no_sliding", "pants", "popcorn", "slipring", "soap", "stop", "water"];
+    const found = JSON.parse(localStorage.getItem("found")) || [];
 
-<script>
-  const illustrations = [
-  "mouse",
-  "table",
-  "do_not_read"
-  ];
+    const params = new URLSearchParams(window.location.search);
+    const newlyFound = params.get("found");
 
-  const found = JSON.parse(localStorage.getItem("found")) || [];
+    if (newlyFound && !found.includes(newlyFound)) {
+      found.push(newlyFound);
+      localStorage.setItem("found", JSON.stringify(found));
+    }
 
-  const params = new URLSearchParams(window.location.search);
-  const newlyFound = params.get("found");
+    const grid = document.getElementById("grid");
 
-  if (newlyFound && !found.includes(newlyFound)) {
-    found.push(newlyFound);
-    localStorage.setItem("found", JSON.stringify(found));
-  }
+    illustrations.forEach(name => {
+      const div = document.createElement("div");
+      div.className = "item";
 
-  const grid = document.getElementById("grid");
+      const img = document.createElement("img");
+      img.src = found.includes(name) ? `images/${name}.svg` : `images/shadow.svg`;
 
-  illustrations.forEach(name => {
-    const div = document.createElement("div");
-    div.className = "item";
+      // Lightbox: רק אם התמונה נחשפה
+      img.addEventListener("click", () => {
+        if (!found.includes(name)) return;
+        const lightbox = document.getElementById("lightbox");
+        lightbox.querySelector("img").src = `images/${name}.svg`;
+        lightbox.classList.add("active");
+      });
 
-    const img = document.createElement("img");
-    img.src = found.includes(name)
-      ? `images/${name}.svg`
-      : `images/shadow.svg`;
+      div.appendChild(img);
+      grid.appendChild(div);
+    });
 
-    div.appendChild(img);
-    grid.appendChild(div);
-  });
+    document.getElementById("counter").innerText =
+      `נחשפו ${found.length} מתוך ${illustrations.length} צללים`;
 
-  document.getElementById("counter").innerText =
-    `נחשפו ${found.length} מתוך ${illustrations.length} צללים`;
-</script>
-
+    // סגירת lightbox בלחיצה
+    document.getElementById("lightbox").addEventListener("click", () => {
+      document.getElementById("lightbox").classList.remove("active");
+    });
+  </script>
 </body>
 </html>
-

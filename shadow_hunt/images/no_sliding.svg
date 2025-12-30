@@ -1,70 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 536 953">
-  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1369.13 1369.13">
   <defs>
     <style>
-      .st0 {
-        fill: none;
-        stroke: #690005;
-        stroke-width: 29px;
-      }
-
-      .st0, .st1 {
-        stroke-miterlimit: 10;
-      }
-
-      .st1 {
+      .cls-1 {
         fill: #fff;
         stroke: #000;
       }
 
-      .st2 {
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #690005;
+        stroke-width: 93.54px;
+      }
+
+      .cls-3 {
         fill: #720000;
       }
 
-      .st3 {
+      .cls-4 {
         fill: #231f20;
       }
     </style>
   </defs>
-  <ellipse class="st1" cx="269" cy="502" rx="176" ry="181"/>
-  <circle class="st3" cx="308.12" cy="370.34" r="17.56"/>
-  <ellipse class="st3" cx="289.55" cy="418.21" rx="6.57" ry="21.22"/>
-  <circle class="st3" cx="315.06" cy="490.84" r="6.95"/>
-  <circle class="st3" cx="288.16" cy="489.83" r="7.96"/>
-  <rect class="st3" x="296.12" y="394.97" width="29.56" height="54.57"/>
-  <rect class="st3" x="282.97" y="447.51" width="27.92" height="14.15" transform="translate(-222.15 295.31) rotate(-39.79)"/>
-  <path class="st3" d="M284.48,462.45h0c4.43-.57,8.49,2.57,9.06,7l1.74,13.54c.57,4.44-2.56,8.5-7,9.06h0c-4.43.57-8.49-2.57-9.06-7l-1.74-13.54c-.57-4.44,2.56-8.5,7-9.06Z"/>
-  <rect class="st3" x="280.2" y="451.56" width="26.02" height="15.66" transform="translate(-233.52 319.52) rotate(-42.58)"/>
-  <rect class="st3" x="308.12" y="463.71" width="13.89" height="27.14"/>
-  <ellipse class="st3" cx="333.62" cy="422.25" rx="7.33" ry="21.22"/>
-  <rect class="st3" x="296.12" y="449.54" width="24.97" height="13.39"/>
-  <ellipse class="st3" cx="287.96" cy="460.44" rx="13.63" ry="7.93" transform="translate(-253.23 415.2) rotate(-53.2)"/>
-  <ellipse class="st3" cx="285.38" cy="416.69" rx="5.18" ry="19.71"/>
-  <ellipse class="st3" cx="317.17" cy="410.35" rx="15.66" ry="16.98"/>
-  <ellipse class="st3" cx="293.75" cy="481.37" rx="3.19" ry="12.63"/>
-  <path class="st3" d="M315.06,457.11h0c4.08,0,7.39,3.31,7.39,7.39v4.42c0,4.08-3.31,7.39-7.39,7.39h0c-4.08,0-7.39-3.31-7.39-7.39v-4.42c0-4.08,3.31-7.39,7.39-7.39Z"/>
-  <ellipse class="st3" cx="315.07" cy="451.75" rx="13.14" ry="10.61" transform="translate(-199.24 648.8) rotate(-76.07)"/>
-  <ellipse class="st3" cx="288.16" cy="432.72" rx="4.8" ry="6.37"/>
-  <polygon class="st3" points="445.59 463.62 365.25 463.62 354.83 517.87 445.59 516.04 445.59 463.62"/>
-  <polygon class="st3" points="356.91 507.01 445.59 507.01 422.35 625.24 289.55 521.16 356.91 507.01"/>
-  <polygon class="st3" points="301.08 542.88 219.23 562.59 219.23 669.71 393.55 636.86 301.08 542.88"/>
-  <rect class="st3" x="188.92" y="629.79" width="184.93" height="48" rx="16.42" ry="16.42"/>
-  <rect class="st3" x="154.65" y="589.64" width="112.02" height="68.79" rx="15.35" ry="15.35" transform="translate(-127.61 58.91) rotate(-12.25)"/>
-  <rect class="st3" x="257.53" y="561.98" width="4.15" height="4.15"/>
-  <rect class="st3" x="236.41" y="621.71" width="4.15" height="4.15"/>
-  <rect class="st3" x="204.58" y="602" width="1.52" height="1.01"/>
-  <rect class="st3" x="131.03" y="601.12" width="46.56" height="39.92" transform="translate(-128.27 46.88) rotate(-12.25)"/>
-  <rect class="st3" x="338.22" y="426.35" width="12.72" height="109.64"/>
-  <rect class="st3" x="386.47" y="389.92" width="9.09" height="107.12"/>
-  <rect class="st3" x="208.42" y="521.56" width="10.61" height="80.84"/>
-  <rect class="st3" x="146.39" y="565.62" width="10.11" height="43.96"/>
-  <rect class="st3" x="66.26" y="486.77" width="371.94" height="15.16" transform="translate(-238.97 236.04) rotate(-35.23)"/>
-  <ellipse class="st0" cx="270.09" cy="500.57" rx="188.21" ry="185.43"/>
-  <rect class="st2" x="236.3" y="320.4" width="42.4" height="379.59" transform="translate(-298.32 377.27) rotate(-49.77)"/>
-  <ellipse class="st3" cx="315.06" cy="454.6" rx="11.97" ry="9.76" transform="translate(-237.46 480.02) rotate(-57.91)"/>
-  <rect class="st3" x="286.83" y="443.06" width="20.23" height="14.2" transform="translate(-231.34 341.82) rotate(-45)"/>
-  <rect class="st3" x="282.04" y="392.33" width="53.91" height="36.04" rx="12.08" ry="12.08"/>
-  <rect class="st3" x="315.18" y="395.28" width="22.23" height="22.23" rx="11.11" ry="11.11"/>
-  <ellipse class="st3" cx="318.25" cy="462.26" rx="4.59" ry="6.32"/>
+  <ellipse class="cls-1" cx="680.87" cy="689.49" rx="596.42" ry="622.56"/>
+  <ellipse class="cls-4" cx="813.44" cy="236.63" rx="59.51" ry="60.4"/>
+  <ellipse class="cls-4" cx="750.51" cy="401.29" rx="22.26" ry="72.99"/>
+  <ellipse class="cls-4" cx="836.96" cy="651.1" rx="23.55" ry="23.9"/>
+  <ellipse class="cls-4" cx="745.8" cy="647.63" rx="26.97" ry="27.38"/>
+  <rect class="cls-4" x="772.78" y="321.35" width="100.17" height="187.7"/>
+  <polygon class="cls-4" points="723.84 538.42 796.54 476.96 827.22 514.36 754.52 575.82 723.84 538.42"/>
+  <path class="cls-4" d="M733.33,553.45h0c15.01-1.96,28.77,8.84,30.7,24.08l5.9,46.57c1.93,15.27-8.68,29.24-23.72,31.16h0c-15.01,1.96-28.77-8.84-30.7-24.08l-5.9-46.57c-1.93-15.27,8.68-29.24,23.72-31.16Z"/>
+  <polygon class="cls-4" points="712.51 553.38 777.43 492.83 813.34 532.49 748.41 593.04 712.51 553.38"/>
+  <rect class="cls-4" x="813.44" y="557.79" width="47.07" height="93.35"/>
+  <ellipse class="cls-4" cx="899.85" cy="415.18" rx="24.84" ry="72.99"/>
+  <rect class="cls-4" x="772.78" y="509.05" width="84.62" height="46.06"/>
+  <ellipse class="cls-4" cx="745.1" cy="546.52" rx="46.64" ry="27.01" transform="translate(-134.9 828.41) rotate(-54.02)"/>
+  <ellipse class="cls-4" cx="736.38" cy="396.06" rx="17.55" ry="67.79"/>
+  <ellipse class="cls-4" cx="844.11" cy="374.25" rx="53.07" ry="58.4"/>
+  <ellipse class="cls-4" cx="764.74" cy="618.53" rx="10.81" ry="43.44"/>
+  <path class="cls-4" d="M836.96,535.08h0c13.83,0,25.04,11.38,25.04,25.42v15.2c0,14.03-11.22,25.42-25.04,25.42h0c-13.83,0-25.04-11.38-25.04-25.42v-15.2c0-14.03,11.22-25.42,25.04-25.42Z"/>
+  <ellipse class="cls-4" cx="837" cy="516.64" rx="45.16" ry="35.98" transform="translate(144.84 1215.5) rotate(-76.96)"/>
+  <ellipse class="cls-4" cx="745.8" cy="451.19" rx="16.27" ry="21.91"/>
+  <polygon class="cls-4" points="1279.29 557.48 1007.04 557.48 971.73 744.07 1279.29 737.78 1279.29 557.48"/>
+  <polygon class="cls-4" points="983.81 706.72 1290.95 706.72 1210.46 1113.38 750.51 755.39 983.81 706.72"/>
+  <polygon class="cls-4" points="789.58 830.09 512.22 897.89 512.22 1266.33 1102.94 1153.34 789.58 830.09"/>
+  <path class="cls-4" d="M425.92,1129.03h597.37c9.07,0,16.42,7.35,16.42,16.42v117.56c0,9.07-50.17,14.38-59.23,14.38l-554.55,2.04c-9.07,0-16.42-7.35-16.42-16.42v-117.56c0-9.07,7.35-16.42,16.42-16.42Z"/>
+  <path class="cls-4" d="M323.79,1023.31l269.3-59.35c28.07-6.19,55.77,11.9,61.87,40.39l27.39,128.03c6.1,28.5-11.72,56.61-39.8,62.8l-269.3,59.35c-28.07,6.19-55.77-11.9-61.87-40.39l-27.39-128.03c-6.1-28.5,11.72-56.61,39.8-62.8Z"/>
+  <rect class="cls-4" x="642" y="895.79" width="14.06" height="14.27"/>
+  <rect class="cls-4" x="570.43" y="1101.23" width="14.06" height="14.27"/>
+  <rect class="cls-4" x="462.57" y="1033.44" width="5.15" height="3.47"/>
+  <polygon class="cls-4" points="200.76 1048.96 354.95 1014.98 383.65 1149.16 229.46 1183.14 200.76 1048.96"/>
+  <rect class="cls-4" x="915.44" y="429.28" width="43.1" height="377.11"/>
+  <rect class="cls-4" x="1078.95" y="303.98" width="30.8" height="368.44"/>
+  <rect class="cls-4" x="475.58" y="756.76" width="35.95" height="278.05"/>
+  <rect class="cls-4" x="265.38" y="908.31" width="34.26" height="151.2"/>
+  <polygon class="cls-4" points="94.46 1010.85 1124.01 272.87 1153.65 315.46 124.09 1053.44 94.46 1010.85"/>
+  <circle class="cls-2" cx="684.57" cy="684.57" r="637.8"/>
+  <polygon class="cls-3" points="104.48 351.71 197.27 240.37 1179.33 1083.62 1086.54 1194.96 104.48 351.71"/>
+  <ellipse class="cls-4" cx="836.96" cy="526.46" rx="41.01" ry="33.21" transform="translate(-39.41 984.32) rotate(-59.76)"/>
+  <polygon class="cls-4" points="734.31 518.51 782.79 469.31 816.82 503.84 768.34 553.05 734.31 518.51"/>
+  <rect class="cls-4" x="725.06" y="312.27" width="182.69" height="123.96" rx="12.08" ry="12.08"/>
+  <rect class="cls-4" x="837.37" y="322.42" width="75.33" height="76.46" rx="11.11" ry="11.11"/>
+  <ellipse class="cls-4" cx="847.77" cy="552.8" rx="15.55" ry="21.74"/>
 </svg>

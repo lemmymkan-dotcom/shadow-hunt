@@ -1,82 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3072 4096">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1417.33 1417.33">
   <defs>
     <style>
       .cls-1 {
-        fill: #279546;
+        fill: none;
+        stroke: #2b3990;
+        stroke-width: 141.73px;
       }
 
-      .cls-2 {
-        fill: #2d2d85;
-      }
-
-      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
-        stroke: #231f20;
-        stroke-width: 2.83px;
-      }
-
-      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
         stroke-miterlimit: 10;
       }
 
-      .cls-9 {
+      .cls-2, .cls-6, .cls-7, .cls-3, .cls-4, .cls-8, .cls-9, .cls-10, .cls-5 {
+        stroke: #231f20;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-2, .cls-9 {
+        fill: #fed5aa;
+      }
+
+      .cls-11 {
         fill: #69461b;
+      }
+
+      .cls-12 {
+        fill: #b8e5f5;
+      }
+
+      .cls-13 {
+        fill: #63bc46;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #293690;
+      }
+
+      .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+
+      .cls-14 {
+        fill: #279546;
       }
 
       .cls-3 {
         fill: #fcc195;
       }
 
-      .cls-10 {
-        fill: #63bc46;
-      }
-
       .cls-4 {
-        fill: #fed5aa;
-      }
-
-      .cls-5 {
-        fill: #293690;
-      }
-
-      .cls-6 {
         fill: #4088c8;
       }
 
-      .cls-7 {
-        fill: #b285bc;
-      }
-
       .cls-8 {
-        fill: none;
-        stroke: #2b3990;
-        stroke-width: 141.73px;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
       }
 
-      .cls-11 {
-        fill: #b8e5f5;
+      .cls-9 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+
+      .cls-10 {
+        fill: #2d2d85;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+
+      .cls-5 {
+        fill: #b285bc;
       }
     </style>
   </defs>
-  <path class="cls-11" d="M1592.13,2073.96l631.74-2.81c-1.57-351.81-288.03-640.03-634.59-638.49-346.33,1.54-630.12,291.92-628.88,643.5l631.74-2.2Z"/>
-  <path class="cls-1" d="M1615.34,2076.73l-567.01,2.52c1.26,282.07,258.24,513.04,569.29,511.65s565.97-234.63,564.72-516.7l-567.01,2.52Z"/>
-  <circle class="cls-8" cx="1612.63" cy="2006.23" r="637.8"/>
-  <ellipse class="cls-4" cx="1297.07" cy="2274.34" rx="46.68" ry="20.77" transform="translate(-834.58 754.12) rotate(-24.81)"/>
-  <path class="cls-7" d="M1250.85,2411.8c74.34,27.66,4.6-227.53-41.01-220.35-72.48,11.41-33.26,192.72,41.01,220.35Z"/>
-  <path class="cls-4" d="M1279.01,2280.74c2.84,23.47-43.88-51-66.16-70.36-10.89-9.46-24.46,27.56-6.57,58.35,28.38,48.83,84.34,81.56,91.07,68.65"/>
-  <path class="cls-4" d="M1373.18,2288.88c11.04,27.52-115.81,62.95-117.95,27.3-5.89-35.28,104.6-60.56,117.95-27.3Z"/>
-  <path class="cls-3" d="M1214.24,2193.66c28.76-7.21,46.46-36.23,39.53-64.82-6.93-28.58-35.86-45.91-64.63-38.7-28.76,7.21-46.46,36.23-39.53,64.82,6.93,28.58,35.86,45.91,64.63,38.7Z"/>
-  <ellipse class="cls-2" cx="1203.12" cy="2147.8" rx="24.59" ry="25.32" transform="translate(-217.78 137.43) rotate(-6)"/>
-  <path class="cls-6" d="M1201.52,2122.53c-29.07,17.84-17.07-51.71-10.38-42.8,5.48,7.29,13.57,40.84,10.38,42.8Z"/>
-  <ellipse class="cls-5" cx="1314.76" cy="2376.61" rx="73.41" ry="23.97" transform="translate(-897.08 800.33) rotate(-25.57)"/>
-  <ellipse class="cls-5" cx="1374.24" cy="2412.77" rx="28.38" ry="72.93" transform="translate(-10.73 6.14) rotate(-.26)"/>
-  <ellipse class="cls-5" cx="1304.13" cy="2392.39" rx="70.01" ry="28.29" transform="translate(-10.64 5.83) rotate(-.26)"/>
-  <ellipse class="cls-5" cx="1374.27" cy="2420.37" rx="27.7" ry="57.55" transform="translate(-1178.84 1312.03) rotate(-36.95)"/>
-  <ellipse class="cls-10" cx="1622.3" cy="1650.92" rx="105.68" ry="68.52" transform="translate(-666.55 1306.61) rotate(-36.95)"/>
-  <path class="cls-9" d="M1867.46,2176.54l-1.37-308.9c-.17-37.2-30.46-67.22-67.65-67.05-46.21-5.24-91.27,16.33-91.9,67.77,0,0,1.37,308.9,1.37,308.9.17,37.2,30.46,67.22,67.65,67.05,46.21,5.24,91.27-16.33,91.9-67.76Z"/>
-  <ellipse class="cls-10" cx="1682.66" cy="1801.53" rx="131.23" ry="102.19" transform="translate(-8 7.51) rotate(-.26)"/>
-  <ellipse class="cls-10" cx="1895.23" cy="1812.2" rx="109.16" ry="99.87" transform="translate(-8.05 8.45) rotate(-.26)"/>
-  <ellipse class="cls-10" cx="1581.94" cy="1732.3" rx="89.96" ry="97.55" transform="translate(-7.7 7.06) rotate(-.26)"/>
-  <ellipse class="cls-10" cx="1959.89" cy="1728.3" rx="95.23" ry="146.32" transform="translate(-403.43 2843.16) rotate(-66.66)"/>
-  <ellipse class="cls-10" cx="1795.47" cy="1698.84" rx="213.68" ry="146.32" transform="translate(-7.54 8.01) rotate(-.26)"/>
+  <path class="cls-12" d="M688.16,776.4l631.74-2.81c-1.57-351.81-288.03-640.03-634.59-638.49C338.99,136.64,55.2,427.02,56.44,778.59l631.74-2.2h-.01Z"/>
+  <path class="cls-14" d="M711.37,779.17l-567.01,2.52c1.26,282.07,258.24,513.04,569.29,511.65s565.97-234.63,564.72-516.7l-567.01,2.52h.01Z"/>
+  <circle class="cls-1" cx="708.66" cy="708.67" r="637.8"/>
+  <ellipse class="cls-9" cx="393.15" cy="976.72" rx="46.68" ry="20.77" transform="translate(-373.56 255.12) rotate(-24.81)"/>
+  <path class="cls-5" d="M346.88,1114.24c74.34,27.66,4.6-227.53-41.01-220.35-72.48,11.41-33.26,192.72,41.01,220.35Z"/>
+  <path class="cls-2" d="M375.04,983.18c2.84,23.47-43.88-51-66.16-70.36-10.89-9.46-24.46,27.56-6.57,58.35,28.38,48.83,84.34,81.56,91.07,68.65"/>
+  <path class="cls-2" d="M469.22,991.31c11.04,27.52-115.81,62.95-117.95,27.3-5.89-35.28,104.6-60.56,117.95-27.3Z"/>
+  <path class="cls-3" d="M310.27,896.09c28.76-7.21,46.46-36.23,39.53-64.82-6.93-28.58-35.86-45.91-64.63-38.7-28.76,7.21-46.46,36.23-39.53,64.82,6.93,28.58,35.86,45.91,64.63,38.7Z"/>
+  <ellipse class="cls-10" cx="299.29" cy="850.14" rx="24.59" ry="25.32" transform="translate(-87.22 35.94) rotate(-6)"/>
+  <path class="cls-4" d="M297.56,824.97c-29.07,17.84-17.07-51.71-10.38-42.8,5.48,7.29,13.57,40.84,10.38,42.8Z"/>
+  <ellipse class="cls-6" cx="410.72" cy="1079.14" rx="73.41" ry="23.97" transform="translate(-425.54 282.97) rotate(-25.57)"/>
+  <ellipse class="cls-8" cx="470.48" cy="1115.08" rx="28.38" ry="72.93" transform="translate(-5.06 2.15) rotate(-.26)"/>
+  <ellipse class="cls-8" cx="400.37" cy="1094.71" rx="70.01" ry="28.29" transform="translate(-4.96 1.83) rotate(-.26)"/>
+  <ellipse class="cls-7" cx="470.38" cy="1122.63" rx="27.7" ry="57.55" transform="translate(-580.36 508.23) rotate(-36.95)"/>
+  <ellipse class="cls-13" cx="718.36" cy="353.2" rx="105.68" ry="68.52" transform="translate(-68.04 502.76) rotate(-36.95)"/>
+  <path class="cls-11" d="M963.49,878.98l-1.37-308.9c-.17-37.2-30.46-67.22-67.65-67.05-46.21-5.24-91.27,16.33-91.9,67.77l1.37,308.9c.17,37.2,30.46,67.22,67.65,67.05,46.21,5.24,91.27-16.33,91.9-67.76h0Z"/>
+  <ellipse class="cls-13" cx="778.85" cy="503.82" rx="131.23" ry="102.19" transform="translate(-2.28 3.54) rotate(-.26)"/>
+  <ellipse class="cls-13" cx="991.42" cy="514.47" rx="109.16" ry="99.87" transform="translate(-2.32 4.5) rotate(-.26)"/>
+  <ellipse class="cls-13" cx="678.12" cy="434.6" rx="89.96" ry="97.55" transform="translate(-1.97 3.08) rotate(-.26)"/>
+  <ellipse class="cls-13" cx="1055.96" cy="430.81" rx="95.23" ry="146.32" transform="translate(242.04 1229.68) rotate(-66.66)"/>
+  <ellipse class="cls-13" cx="891.66" cy="401.12" rx="213.68" ry="146.32" transform="translate(-1.81 4.05) rotate(-.26)"/>
 </svg>

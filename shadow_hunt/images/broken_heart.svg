@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 899 1599">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380.47 1329.53">
   <defs>
     <style>
       .cls-1 {
-        stroke-width: 15px;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
         stroke-miterlimit: 10;
+        stroke-width: 6px;
       }
 
-      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
         stroke: #231f20;
       }
 
-      .cls-1, .cls-4 {
-        fill: none;
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-7, .cls-9, .cls-10, .cls-12, .cls-13 {
+        fill: #ed1c24;
       }
 
       .cls-2 {
         stroke-width: 5px;
       }
 
-      .cls-2, .cls-3, .cls-12, .cls-7, .cls-9, .cls-10, .cls-11 {
-        fill: #ed1c24;
+      .cls-2, .cls-14, .cls-3, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-miterlimit: 10;
       }
 
-      .cls-3 {
-        stroke-width: 7px;
+      .cls-14 {
+        stroke: #ed1c24;
+        stroke-width: 104.88px;
+      }
+
+      .cls-14, .cls-11 {
+        fill: none;
       }
 
       .cls-4 {
-        stroke: #ed1c24;
-        stroke-width: 85px;
+        stroke-width: .25px;
       }
 
       .cls-5 {
         fill: #00aeef;
       }
 
-      .cls-5, .cls-11 {
+      .cls-5, .cls-9 {
         stroke-width: 3px;
       }
 
@@ -48,7 +49,8 @@
       }
 
       .cls-7 {
-        stroke-width: .25px;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
       }
 
       .cls-8 {
@@ -58,38 +60,46 @@
       .cls-10 {
         stroke-width: 6px;
       }
+
+      .cls-11 {
+        stroke-width: 15px;
+      }
+
+      .cls-12 {
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
     </style>
   </defs>
-  <ellipse class="cls-5" cx="415.77" cy="824.45" rx="321.9" ry="324.17"/>
-  <circle class="cls-6" cx="234.74" cy="1150.34" r="2.62"/>
-  <path class="cls-8" d="M462.8,811.14h-54.52,54.52Z"/>
-  <ellipse class="cls-8" cx="463.84" cy="840.5" rx="27.26" ry="0"/>
-  <ellipse class="cls-8" cx="459.65" cy="799.5" rx="27.26" ry="0"/>
-  <ellipse class="cls-2" cx="368.94" cy="750.67" rx="80.56" ry="84.41"/>
-  <ellipse class="cls-2" cx="522.92" cy="736.34" rx="78.11" ry="82.14"/>
-  <path class="cls-9" d="M367.04,748.75v-1.92,3.84-1.92Z"/>
-  <circle class="cls-9" cx="502.48" cy="735.12" r="1.22"/>
-  <circle class="cls-9" cx="527.64" cy="709.95" r="1.22"/>
-  <rect class="cls-12" x="384.45" y="756.26" width="161.54" height="68.19"/>
-  <rect class="cls-12" x="326.12" y="770.21" width="85.64" height="58.57" rx="15.73" ry="15.73"/>
-  <rect class="cls-12" x="555.78" y="784.22" width="2.1" height="2.1"/>
-  <rect class="cls-7" x="548.79" y="773.74" width="2.1" height="2.1"/>
-  <rect class="cls-7" x="502.48" y="884.65" width="9.96" height="1.63"/>
-  <rect class="cls-12" x="426.46" y="750.67" width="9.08" height="0"/>
-  <polygon class="cls-12" points="476.79 727.6 424.75 796.09 391.45 716.78 476.79 727.6"/>
-  <rect class="cls-11" x="298.53" y="1265.16" width="2.8" height="2.8"/>
-  <ellipse class="cls-1" cx="429.95" cy="824.07" rx="301.28" ry="313.51"/>
-  <polygon class="cls-10" points="537.25 943.6 377.87 909 291.73 774.79 601.03 748.75 537.25 943.6"/>
-  <polygon class="cls-10" points="394.11 968.5 346.37 973 366.35 929.41 394.11 968.5"/>
-  <polygon class="cls-10" points="426.46 970.34 411.02 943.6 441.89 943.6 426.46 970.34"/>
-  <rect class="cls-10" x="441.51" y="1004.8" width="42.56" height="42.56" transform="translate(-658.28 1127.11) rotate(-70.87)"/>
-  <rect class="cls-10" x="388.04" y="986.31" width="25.38" height="25.38" transform="translate(-532.82 463.21) rotate(-38.29)"/>
-  <polygon class="cls-10" points="514.17 960.7 507.64 983.56 484.57 989.32 468.04 972.23 474.58 949.37 497.65 943.6 514.17 960.7"/>
-  <polygon class="cls-10" points="417.02 1040.21 404.4 1074.76 380.79 1046.56 417.02 1040.21"/>
-  <polygon class="cls-12" points="601.03 736.34 298.53 773.74 347.65 852.14 579.19 799.5 601.03 736.34"/>
-  <rect class="cls-12" x="298.53" y="719.21" width="297.54" height="31.46"/>
-  <ellipse class="cls-12" cx="330.33" cy="755.34" rx="38.61" ry="44.16"/>
-  <rect class="cls-3" x="46.06" y="771.97" width="760.78" height="79.47" transform="translate(-469.53 616.92) rotate(-50.02)"/>
-  <ellipse class="cls-4" cx="431" cy="824.45" rx="348.2" ry="362.88"/>
-  <polygon class="cls-10" points="431.19 1112.67 436.77 1069.52 468.38 1090.09 431.19 1112.67"/>
+  <ellipse class="cls-5" cx="680.77" cy="610.43" rx="608.06" ry="528.82"/>
+  <ellipse class="cls-6" cx="330.75" cy="1141.97" rx="4.8" ry="4.14"/>
+  <path class="cls-8" d="M748.48,605.41h-99.86,99.86Z"/>
+  <path class="cls-8" d="M750.39,651.85h49.93-99.86,49.93Z"/>
+  <path class="cls-8" d="M742.71,587h49.93-99.86,49.93Z"/>
+  <ellipse class="cls-2" cx="576.56" cy="509.75" rx="147.56" ry="133.52"/>
+  <ellipse class="cls-2" cx="858.61" cy="487.09" rx="143.07" ry="129.93"/>
+  <path class="cls-3" d="M573.08,506.72v-3.04,6.07-3.04h0Z"/>
+  <ellipse class="cls-3" cx="821.17" cy="485.16" rx="2.23" ry="1.93"/>
+  <ellipse class="cls-3" cx="867.25" cy="445.34" rx="2.23" ry="1.93"/>
+  <rect class="cls-13" x="604.97" y="518.6" width="295.89" height="107.87"/>
+  <rect class="cls-13" x="498.13" y="540.66" width="156.87" height="92.65" rx="15.73" ry="15.73"/>
+  <rect class="cls-13" x="918.79" y="562.83" width="3.85" height="3.32"/>
+  <rect class="cls-4" x="905.99" y="546.25" width="3.85" height="3.32"/>
+  <rect class="cls-4" x="821.17" y="721.69" width="18.24" height="2.58"/>
+  <polygon class="cls-13" points="774.11 473.26 678.79 581.6 617.79 456.15 774.11 473.26"/>
+  <rect class="cls-9" x="447.59" y="1323.6" width="5.13" height="4.43"/>
+  <ellipse class="cls-11" cx="685.26" cy="628.61" rx="576" ry="517.63"/>
+  <polygon class="cls-10" points="884.85 814.94 592.92 760.21 435.14 547.91 1001.68 506.72 884.85 814.94"/>
+  <polygon class="cls-10" points="622.67 854.33 535.22 861.45 571.82 792.49 622.67 854.33"/>
+  <polygon class="cls-10" points="681.92 857.24 653.64 814.94 710.18 814.94 681.92 857.24"/>
+  <polygon class="cls-7" points="698.88 966.27 724.43 902.67 798.08 924.73 772.54 988.34 698.88 966.27"/>
+  <polygon class="cls-1" points="602.14 899.26 638.63 874.38 667.44 905.89 630.95 930.77 602.14 899.26"/>
+  <polygon class="cls-10" points="842.58 841.99 830.62 878.15 788.36 887.26 758.08 860.23 770.06 824.07 812.32 814.94 842.58 841.99"/>
+  <polygon class="cls-10" points="664.63 967.76 641.51 1022.42 598.27 977.81 664.63 967.76"/>
+  <polygon class="cls-13" points="1001.68 487.09 447.59 546.25 537.56 670.27 961.67 587 1001.68 487.09"/>
+  <rect class="cls-13" x="447.59" y="459.99" width="545" height="49.77"/>
+  <ellipse class="cls-13" cx="505.84" cy="517.14" rx="70.72" ry="69.85"/>
+  <polygon class="cls-12" points="178.46 1026.96 1073.82 104.8 1185.37 185.57 290 1107.73 178.46 1026.96"/>
+  <ellipse class="cls-14" cx="690.24" cy="626.46" rx="637.8" ry="574.02"/>
+  <polygon class="cls-10" points="690.58 1082.39 700.81 1014.13 758.7 1046.67 690.58 1082.39"/>
 </svg>
